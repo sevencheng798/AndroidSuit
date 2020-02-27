@@ -8,4 +8,8 @@
 
 - [打包jar实现方式](https://github.com/sevencheng798/AndroidSuit/tree/master/MyDemoJni)
 
+- [Android Studio3.5基于NDK开发](https://github.com/sevencheng798/AndroidSuit/tree/master/ndkdemo)
+
 # Android四大组件
+
+
