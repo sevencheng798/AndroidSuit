@@ -10,6 +10,8 @@
 
 - [Android Studio3.5基于NDK开发](https://github.com/sevencheng798/AndroidSuit/tree/master/ndkdemo)
 
+- [Android Studio3.5基于NDK实现Java调用C](https://github.com/sevencheng798/AndroidSuit/tree/master/JavaCallC)
+
 # Android四大组件
 
 
